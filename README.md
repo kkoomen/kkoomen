@@ -14,8 +14,9 @@ On the road to a PhD:
 - [ ] 📙 Pattern Recognition and Intelligent Systems MSc (2.5y)
 - [ ] 🎓 PhD
 
-[![kkoomen GitHub stats](https://github-readme-stats.vercel.app/api?username=kkoomen&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkoomen&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkoomen&show_icons=true&theme=transparent&card_width=400" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkoomen&theme=transparent&layout=compact" />
+</a>
