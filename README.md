@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**kkoomen/kkoomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kim. Learning Chinese since August 2017. Software engineer since
+2013.
 
-Here are some ideas to get you started:
+Since 2022 back at university studying Artificial Intelligence, not because of
+the hype, but just because it's one of the few things I haven't learned yet that
+I would really like to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On the road to a PhD:
+- [x] 📕 Webdevelopment (4y)
+- [x] 📗 Software Engineering foundation year (1y)
+- [ ] 📘 Artificial Intelligence BSc (3y)
+- [ ] 📙 Pattern Recognition and Intelligent Systems MSc (2.5y)
+- [ ] 🎓 PhD
+
+[![kkoomen GitHub stats](https://github-readme-stats.vercel.app/api?username=kkoomen&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkoomen&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
