@@ -11,7 +11,7 @@ On the road to a PhD:
 - [x] 📕 Webdevelopment (4y)
 - [x] 📗 Software Engineering foundation year (1y)
 - [ ] 📘 Artificial Intelligence BSc (3y)
-- [ ] 📙 Pattern Recognition and Intelligent Systems MSc (2.5y)
+- [ ] 📙 Artificial Intelligence MSc (2y)
 - [ ] 🎓 PhD
 
 [![kkoomen GitHub stats](https://github-readme-stats.vercel.app/api?username=kkoomen&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
