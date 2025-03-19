@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kim. Software engineer since 2013.
+Software engineer since 2013.
 
 Since 2022 back at university studying Artificial Intelligence, not because of
 the hype, but just because it's one of the few things I haven't learned yet that
