@@ -9,7 +9,7 @@ I would really like to learn.
 On the road to a PhD:
 - [x] 📕 Webdevelopment (4y)
 - [x] 📗 Software Engineering foundation year (1y)
-- [ ] 📘 Artificial Intelligence BSc (3y)
+- [x] 📘 Artificial Intelligence BSc (3y)
 - [ ] 📙 Artificial Intelligence MSc (2y)
 - [ ] 🎓 PhD
 
