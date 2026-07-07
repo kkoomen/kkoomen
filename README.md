@@ -21,6 +21,6 @@ architecture, implementation, user experience, or interface design.
 在团队中重视清晰沟通与理性决策。
 持续寻找产品优化机会，包括架构设计、实现方式、用户体验与界面设计。
 
-[![kkoomen GitHub stats](https://github-readme-stats.vercel.app/api?username=kkoomen&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![kkoomen GitHub stats](https://github-stats-extended.vercel.app/api?username=kkoomen&show_icons=true&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkoomen&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kkoomen&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
